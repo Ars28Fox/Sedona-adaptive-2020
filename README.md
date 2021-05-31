@@ -1,5 +1,7 @@
 # Учебный проект «Седона»
 
+[Project page](https://ars28fox.github.io/Sedona-adaptive-2020/)
+
 Написан на чистом html, использовался препроцессор scss, javascript и сборщик gulp.
 В ходе учебного проекта было реализовано:
 
